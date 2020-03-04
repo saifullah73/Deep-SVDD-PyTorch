@@ -1,5 +1,5 @@
 # Extension
-Working on improving the performance and efficiency of Deep SVDD approach as part of my currently ongoing research project in collaboration with Dr. Imran Malik (TUKL, SEECS NUST)\n
+Working on improving the performance and efficiency of Deep SVDD approach as part of my currently ongoing research project in collaboration with Dr. Imran Malik (TUKL, SEECS NUST)  
 The following project might be unstable as the work is ongoing
 
 # PyTorch Implementation of Deep SVDD
