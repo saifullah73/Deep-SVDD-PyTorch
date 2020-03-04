@@ -1,3 +1,7 @@
+# Extension
+Working on improving the performance and efficiency of Deep SVDD approach as part of my currently ongoing research project in collaboration with Dr. Imran Malik (TUKL, SEECS NUST)
+The following project might be unstable as it is currently in work
+
 # PyTorch Implementation of Deep SVDD
 This repository provides a [PyTorch](https://pytorch.org/) implementation of the *Deep SVDD* method presented in our
 ICML 2018 paper ”Deep One-Class Classification”.
